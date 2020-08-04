@@ -2,4 +2,7 @@
 layout: Default
 ---
 
-# **Southchain Digital**
+# **Southchain Digital Asset Group**
+## Ethereum Blockchain infrastructure
+> DeFi
+> Payment Channels
