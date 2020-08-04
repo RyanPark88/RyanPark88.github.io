@@ -1,5 +1,5 @@
 ---
-layout:Default
+layout: Default
 ---
 
-# Southchain Digital
+# **Southchain Digital**
