@@ -1,5 +1,5 @@
 ---
-Site Title:SouthChain
+layout:Default
 ---
 
 # Southchain Digital
