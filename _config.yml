@@ -8,8 +8,7 @@ url: 'http://RyanPark88.github.io'
 twitter_username: RyanParkR
 github_username: RyanPark88
 # Build Settings
-sass:
-  sass_dir: _sass
-include: ['_pages']
-kramdown:
-  input: GFM
+css:
+  css_dir: style.css
+include: ['script.js']
+input: GFM
