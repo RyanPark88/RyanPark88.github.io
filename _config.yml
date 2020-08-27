@@ -10,5 +10,5 @@ github_username: RyanPark88
 # Build Settings
 css:
   css_dir: style.css
-include: ['script.js']
+include: ['index.html']
 input: GFM
