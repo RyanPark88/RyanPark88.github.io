@@ -1,14 +1,13 @@
 # Site Settings
 title: Ryan Parker
 email: ryanpark88.rp@gmail.com
-description: >
-  Getting started with Jekyll.
+description: Bootstrap
 baseurl: ''
 url: 'http://RyanPark88.github.io'
 twitter_username: RyanParkR
 github_username: RyanPark88
 # Build Settings
 css:
-  css_dir: style.css
-include: ['index.html']
+  css_dir: styles.css
+include: ['index.html' 'about.html' 'contact.html']
 input: GFM
